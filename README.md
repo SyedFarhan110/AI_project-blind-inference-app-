@@ -1,6 +1,9 @@
- AI_project-blind-inference-app-
+ AI_project-blind-inference-app
+ <br>
 This is an application build for blind student to understand graphs or images more easily
+<br>
 Design by: Syed Farhan Ali Raza and team mates
+<br>
 
 Here is an overview of your project that can be used as a GitHub README:
 
